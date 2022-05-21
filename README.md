@@ -15,3 +15,4 @@ The user of this dashboard can implement the following actions:
 -   Add new data to the database
 -   View all kinds of data stored in the database
 -   Update any data field in the database
+<img width="948" alt="Ekran Alıntısı" src="https://user-images.githubusercontent.com/40761773/169654372-925d8651-6b86-4e61-afab-d8f1ec559eaf.PNG">
